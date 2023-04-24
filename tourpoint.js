@@ -21,7 +21,7 @@ var tourpoint ={
       "properties": {
         "name": "เกาะสมุย",
         "level": "⭐⭐⭐⭐",
-        "type": "Nutural🌲"
+        "type": "Nutural🏖️"
       },
       "geometry": {
         "coordinates": [
@@ -36,7 +36,7 @@ var tourpoint ={
       "properties": {
         "name": "วัดอุโมงค์",
         "level": "⭐⭐⭐⭐",
-        "type": "Culture"
+        "type": "Culture🛕"
       },
       "geometry": {
         "coordinates": [
@@ -51,7 +51,7 @@ var tourpoint ={
       "properties": {
         "name": "เกาะกูด",
         "level": "⭐⭐⭐⭐",
-        "type": "Nutural🌲"
+        "type": "Nutural🏖️"
       },
       "geometry": {
         "coordinates": [
@@ -66,7 +66,7 @@ var tourpoint ={
       "properties": {
         "name": "พัทยา",
         "level": "⭐⭐⭐⭐",
-        "type": "Nutural🌲"
+        "type": "Nutural🏖️"
       },
       "geometry": {
         "coordinates": [
@@ -96,7 +96,7 @@ var tourpoint ={
       "properties": {
         "name": "ถ้ำมรกต",
         "level": "⭐⭐⭐⭐",
-        "type": "Nutural🌲"
+        "type": "Nutural⛰️"
       },
       "geometry": {
         "coordinates": [
@@ -111,7 +111,7 @@ var tourpoint ={
       "properties": {
         "name": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
         "level": "⭐⭐⭐⭐",
-        "type": "Culture"
+        "type": "Culture🛕"
       },
       "geometry": {
         "coordinates": [
